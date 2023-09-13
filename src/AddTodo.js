@@ -60,6 +60,10 @@ const AddTodo = () => {
 					;
 				</div>
 			</div>
+				<footer>
+					Made with bugs{" "}
+					<a href="https://github.com/DannieBabz/todolist">GitHub</a>
+				</footer>
 		</div>
 	);
 };
