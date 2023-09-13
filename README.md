@@ -6,5 +6,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Features
 Adds and Deletes tasks
+
 Has a Task Counter, to know amount of tasks left or outstanding tasks
 
